@@ -1,16 +1,20 @@
-# ngaoduapp
+# Ngao Du
 
-A new Flutter project.
+#### Ngao du đó đây và thưởng thức ẩm thực
 
-## Getting Started
+### Technology
 
-This project is a starting point for a Flutter application.
+- Flutter: 3.22
 
-A few resources to get you started if this is your first Flutter project:
+### Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Home page: Danh sách địa điểm, có tính năng search, filter và order.
+2. Detail page: Chi tiết về 1 địa điểm:
+    - Tên quán, địa chỉ.
+    - Thời gian mở cửa.
+    - Maps.
+    - Số sao, bình luận.
+    - Món nổi bật.
+    - Kỷ niệm với quán.
+3. Đăng ký/Đăng nhập
+4. Quán sẽ đi.
